@@ -1,0 +1,20 @@
+## Requirements
+
+## Data
+img_class_project_planning
+mobile phone images from:
+  - iphone
+  - samsung
+  - motorola
+  - lg
+  - nokia
+  - oneplus
+
+## Technology
+data visualisation: matplotlib, seaborn
+computer vision: opencv
+machine learning: tensorflow, scikit-learn, kerasAPI 
+data processing and analysis: numpy, pandas
+
+## Deep learning technology
+Convolutional Neural Network --> Model Building

@@ -1,10 +1,14 @@
 ## Requirements
+Resources
+- link image webscraping https://www.orange.lu/en/smartphones/?device_brand=5443 
+- tutorial: https://www.youtube.com/watch?v=lLfqhqsuhE4&list=PLBw1ubD1J1UiNyE77U5hjmRSQi1Puc8OB&index=4 
+
 
 ## Data
 img_class_project_planning
 mobile phone images from:
   - iphone
-  - samsung
+  - samsungs
   - motorola
   - lg
   - nokia

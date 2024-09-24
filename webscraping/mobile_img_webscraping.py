@@ -7,7 +7,8 @@ from bs4 import BeautifulSoup
 
 
 # send a request to coolblue.com
-orange_url = "https://www.orange.lu/en/smartphones/?device_brand=5443"
+# orange_url = "https://www.orange.lu/en/smartphones/?device_brand=5443"
+orange_url = "https://www.orange.lu/en/smartphones/?device_brand=5443%2C5463%2C6203%2C5468%2C6196"
 orange_response = requests.get(orange_url)
 
 # check if request was successfull

@@ -13,6 +13,8 @@
  TO DOs
  - watch videos about webscraping with selenium
  - check for code example at chatgpt
- - scrape images (iphone, samsung, nokia, oneplus)
+ - scrape images (iphone, samsung, nokia, oneplus) CHECK
+ - scrape the labels (<span>)
 
-# 
+# Resource from the web: 
+- labels: <span class="c-product-card__name t-h2 u-block u-marg-b-xxs u-marg-t-xxxs">iPhone 16 Pro</span>

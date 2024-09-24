@@ -2,7 +2,9 @@
 
 import os
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
+
 
 # send a request to coolblue.com
 orange_url = "https://www.orange.lu/en/smartphones/?device_brand=5443"
@@ -34,8 +36,22 @@ def extract_images(images, url):
       # handle relative img urls
       if not src.startswith("http"):
         src = url + src
-      images_url.append()
+      images_url.append(src)
   return images_url
 
 images_url_list = extract_images(all_images, orange_url)
-print(images_url_list)
+
+# iterate images line by line
+for i,image_link in enumerate(images_url_list):
+  print(f"Image {i} {image_link}")
+
+# store the image url resources into a pandas dataframe
+def store_image_df(image_url_list):
+  image_data = pd.DataFrame(image_url_list, columns=["Image_URL"])
+  return image_data
+
+image_df = store_image_df(images_url_list)
+
+# save the image data as a csv_file format
+image_df.to_csv("image_data.csv")
+

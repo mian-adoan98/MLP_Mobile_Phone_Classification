@@ -1,5 +1,3 @@
-# Mobile Image Classification
-
 # Project Scope for Mobile Classification Problem:
 
 ## Global Need for Mobile Classification Model

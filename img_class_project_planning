@@ -1,7 +1,7 @@
 # Mobile Image Classification
 
 ## ML Workflow
-- Webscraping images
+- Webscraping images, labels, price 
 - image preprocessing
 - Model Training
 - Model Building: using Convolutional Neural Network

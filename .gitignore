@@ -1,2 +1,3 @@
-# Virtual Environments
-/imclass_pyenv
+## Virtual Environment
+venv/
+.idea/

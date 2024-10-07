@@ -1,3 +1,13 @@
 ## Virtual Environment
 venv/
 .idea/
+
+## Big Data: images
+mobile_images/
+fairphone/
+iphone/
+oneplus/
+pixel_8/
+samsung/
+xiaomi/
+

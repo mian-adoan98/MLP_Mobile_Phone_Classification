@@ -1,6 +1,8 @@
 ## Requirements
 Resources
-- link image webscraping https://www.orange.lu/en/smartphones/?device_brand=5443 
+## link image webscraping 
+- orange weblink: https://www.orange.lu/en/smartphones/?device_brand=5443
+- amazon weblink: https://www.amazon.com.be/-/en/s?i=electronics&rh=n%3A27862520031%2Cp_123%3A110955%7C146762%7C329744%7C338933%7C46655&dc&fs=true&language=en&qid=1728339313&rnid=91049096031&ref=sr_nr_p_123_5&ds=v1%3AgO9ITbY27GiGtlO5Y0Ky%2BeW1wIFpSXrWqeL5%2BaZ024k
 - tutorial: https://www.youtube.com/watch?v=lLfqhqsuhE4&list=PLBw1ubD1J1UiNyE77U5hjmRSQi1Puc8OB&index=4 
 
 

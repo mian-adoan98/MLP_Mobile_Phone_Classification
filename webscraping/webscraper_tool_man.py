@@ -20,6 +20,7 @@ class Webscraper:
   def check_status_request(self):
     if self.response.status_code == 200: 
       html_content = self.response.text
+      print(f"Response Satus Code: {self.response.status_code}")
       return html_content
     else: 
       failed_status_code = self.response.status_code

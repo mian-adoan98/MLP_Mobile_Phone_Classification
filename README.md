@@ -6,7 +6,7 @@ Mobile Image classification is a most profound machine learning models tha enabl
 
 Mobile image classification is a powerful machine learning model that enables companies and businesses to classify the latest mobile phones available in the marketplace. This technology leverages advanced algorithms to analyze images and accurately identify various smartphone brands and models.
 
-The primary objective of this system is to retrieve all the newest smartphones—such as iPhones, Samsungs, OnePlus, Motorolas, Nokias, and others—and classify them based on their properties, specifically their brand, which is the focus of this project.
+The primary objective of this system is to retrieve all the newest smartphones—such as iPhones, Samsungs, OnePlus, Motorolas, Nokias, and others—and classify them based on its company's brand. In continuation of the project, the company's brand will be used to create a catalogue of all newest smartphones found on web. 
 
 By implementing mobile image classification, businesses can streamline inventory management, enhance customer experiences, and improve marketing strategies. For instance, retailers can quickly categorize their stock, while consumers can easily identify products through visual recognition, ultimately driving sales and customer satisfaction.
 

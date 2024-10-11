@@ -16,13 +16,9 @@ Moreover, as the mobile phone market continually evolves, having an automated cl
     
     Retail companies in the electronics sector receive thousands of new smartphones in their inventory but face significant challenges in maintaining efficient inventory management and optimizing stock levels and pricing. This influx of devices often leads to an overwhelming number of unidentified models, making it difficult to classify them based on their specifications. As a result, these challenges negatively impact the companies’ overall business performance in inventory management.
     
-    *“Retail companies in electronics and businesses receiving thousands of new smartphones in their storage but facing huge challenges in maintaining efficient inventory management and optimizing the stocks and the prices. This causes an overload of unknown devices that are complicated to be classified on its specifications which provokes the companies’ business performance on inventory management. ”*
-    
 - **Objectives**
     
     This project aims to classify unknown mobile phones based on their specifications, focusing specifically on the manufacturers (labeled as brands) from which these smartphones are produced and tested. We will develop a machine learning model utilizing computer vision technology that learns from mobile phone images sourced from the website [orange.nl](http://orange.nl/). The model will analyze these images to identify patterns and categorize them into multiple brand classifications for the smartphones.
-    
-    *“This project aims to classify all unknown mobile phones based on their specifications. This project will focus on the manufacturer (labeled as the brand) from which all smartphones are produced and tested. Moreover, we specifically build a machine learning model with means of computer vision technology that learns mobile phone images from the web [orange.nl](http://orange.nl/) and attempts to find patterns and classify these images into multiple categories that are considered as the brand of the smartphone. Can you also make this text fluent and coherent as well?”(my version)*
     
     Concisely:
     

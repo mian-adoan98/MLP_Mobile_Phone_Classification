@@ -1,0 +1,24 @@
+/*------ Homepage Layout---------------------- ----------*/
+
+body {
+  color: rgb(0, 0, 0);
+}
+
+.header-mobile-classifier {
+  font-size: 50px;
+  color: white;
+  float: right;
+  font-weight: bold;
+}
+
+.navbar {
+  background-color: black;
+  text-align: center;
+  font-weight: bold;
+  /* float: inline-end; */
+}
+
+.navtab {
+  padding-right: 10px;
+  float: left;
+}

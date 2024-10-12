@@ -3,11 +3,54 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Homepage</title>
+    <link rel="stylesheet" href="homepage_style.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   </head>
   <body>
+    <header class="header">
 
-    <h1>Mobile Phone Classification</h1>
-    <input type="text" name="image-search" id="image_id">
-  </body>
-</html>
+      <!-- Navigation bar: Homepage ----------------------------------------->
+
+      <nav class="navbar">
+        <a href="index.html" class="header-mobile-classifier">MobileClass.</a>
+        <ul>
+          <li><a href="index.html" class="navtab">HOME</a></li>
+          <li> <a href="inventory.html" class="navtab">INVENTORY</a></li>
+          <li> <a href="project.html" class="navtab">PROJECT</a></li>
+          <li> <a href="contributor.html" class="navtab">CONTRIBUTOR</a></li>
+        </ul>
+      </nav>
+
+    </header>
+
+    <!-- Main page: include all content related to homepage ----------->
+    <h1>Mobile Image Classifier</h1>
+
+    <!-- Image Upload Box Container --------->
+    <div class="img-container">
+      <div class="card">
+        <div class="card-image">
+          <img src="samsung_a546_galaxy_a54_5g_awesome_graphite_front2.png">
+        </div>
+        <span class="card-title">Samsung</span>
+      </div>
+      <!-- Upload Button Container ------- -->
+      <div class="upload-container">
+        <p>Upload image</p>
+        <a class="waves-effect waves-light btn"><i
+            class="material-icons left">Upload</i>button</a>
+      </div>
+
+      <!-- Label Container-->
+      <div class="label-container">
+        <p>Predicted Mobile Brand</p>
+        <p class="flow-text">Mobile Brand</p>
+      </div>
+
+      <!-- Compiled and minified JavaScript -->
+      <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </html>

@@ -1,0 +1,18 @@
+/*--------- Homepage 2: Layout on Mobile Classifier*/
+
+/*Image Container */
+.img-container {
+  height: 120px;
+  width: 150px;
+
+}
+
+/*Upload Container*/
+
+.upload-container {
+  float: right;
+}
+
+/*Modify code */
+
+/* Flexbox layout for side-by-side containers */
